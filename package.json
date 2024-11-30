@@ -1,5 +1,5 @@
 {
-  "name": "chat_app_24",
+  "name": "HACK_COMMUNITY",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,7 +10,7 @@
   },
   "type": "module",
   "keywords": [],
-  "author": "",
+  "author": "DX FANTÔME",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
